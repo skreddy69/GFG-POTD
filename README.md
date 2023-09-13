@@ -21,6 +21,6 @@ To explore and benefit from this repository, follow these simple steps:
 
 3. Each problem folder typically contains the following:
 - *Problem Statement:* A README or a problem statement file describing the challenge.
-- *Solution Files:* Solutions in different programming languages, such as Python, C++, Java, etc.
+- *Solution Files:* Solutions in programming language Java.
 
 4. Feel free to explore the solutions, learn from them, and provide feedback or improvements if you have any.
